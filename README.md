@@ -1,5 +1,4 @@
-# ContextAPI-Trybe
-Adicionando compartilhamento de estado com context API e Redux
+# sistema de login com context API
 
 ## npm install
 ## npm start
